@@ -1,6 +1,6 @@
 ## Hi There!
 
-I'm a Technical Writer + Business Analyst turning operational complexity into requirements, workflows, and audit-ready material, and other user friendly technical docs. SDLC, UAT, BPMN, SQL, Markdown, Git, MkDocs, CI/CD. Not new to coding or Git but some skills went unused professionally for a while. So I'm deliberately refreshing them, and with Git sharing what I learn with others.
+I'm a Technical Writer + Business Analyst turning operational complexity into requirements, workflows, and audit-ready material, and other user friendly technical docs. SDLC, UAT, BPMN, SQL, Markdown, Git, MkDocs, CI/CD. Not new to coding or Git but some skills went unused professionally for a while. So I'm here I am, deliberately refreshing them, and with Git sharing what I learn with others. #selfgrowth #upskilling!
 # 
 
 **I'm looking to collaborate on**
