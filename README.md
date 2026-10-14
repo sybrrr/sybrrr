@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**sybrrr/sybrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Tech Writer who is also a Business Analyst turning ops complexity into requirements, workflows & audit-ready docs | SDLC, UAT, BPMN, SQL | Markdown, Git, MkDocs, CI/CD.
+# 
+#### 🔭 I’m currently working on developing coding skills.
+#### 🌱 I’m currently learning Markdown
 
-Here are some ideas to get you started:
+## Here are short, fill-in-ready responses for each:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**I'm looking to collaborate on**
+- Beginner-friendly Git guides and plain-language docs
+- Docs-as-Code projects (Markdown, MkDocs, CI/CD)
+- Process mapping, SOPs, and workflow documentation
+
+**🤔 I'm looking for help with**
+- Git workflows and branching strategy
+- GitHub Actions and CI/CD pipelines
+- Turning notes into published docs sites
+
+**💬 Ask me about**
+- Business analysis and requirements gathering
+- Technical writing and documentation
+- UAT, SQL, and data validation
+- SOC 2, ISO, and audit readiness
+- MUSIC
+
+**⚡ Fun fact**
+- I learn best by doing and writing and rewriting until it clicks (usually) this hub is proof.
+
