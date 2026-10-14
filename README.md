@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi There 👋🏾
 
 I'm a Tech Writer who is also a Business Analyst turning ops complexity into requirements, workflows & audit-ready docs | SDLC, UAT, BPMN, SQL | Markdown, Git, MkDocs, CI/CD.
 # 
 #### 🔭 I’m currently working on developing coding skills.
-#### 🌱 I’m currently learning Markdown
+#### 🌱 I’m currently relearning Markdown
 
 ## Here are short, fill-in-ready responses for each:
 
@@ -24,7 +24,7 @@ I'm a Tech Writer who is also a Business Analyst turning ops complexity into req
 - Technical writing and documentation
 - UAT, SQL, and data validation
 - SOC 2, ISO, and audit readiness
-- MUSIC
+- MUSIC ♪♪♪ or birds 🦢🦆🦜🐦
 
 **⚡ Fun fact**
 - I learn best by doing and writing and rewriting until it clicks (usually) this hub is proof.
